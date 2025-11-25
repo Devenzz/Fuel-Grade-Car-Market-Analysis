@@ -1,0 +1,332 @@
+Brand_Name,Model_Name,Fuel_Type,Mileage,Transmission_Type,Engine,Seating_Capacity,Country_Origin,Price(₹ Lakh),Car_Type
+BMW,M5,Petrol,49.75,Automatic,4395,5,Germany,201.0,Sedan
+BMW,X3,Petrol,14.86,Automatic,1998,5,Germany,72.65,SUV
+BMW,Z4,Petrol,8.5,Manual/Automatic,2998,2,Germany,90.25,Sedan
+BMW,3 Series,Petrol,13.02,Automatic,2998,5,Germany,73.4,Sedan
+BMW,XM,Petrol,61.9,Automatic,4395,5,Germany,255.0,Sedan
+BMW,M8 Coupe Competition,Petrol,8.7,Automatic,4395,5,Germany,238.0,Sedan
+BMW,M4 Competition,Petrol,9.7,Automatic,2993,4,Germany,152.0,Sedan
+BMW,7 Series,Petrol,7.0,Automatic,2998,5,Germany,185.5,Sedan
+BMW,2 Series Gran Coupe,Petrol,16.35,Automatic,1499,5,Germany,46.25,Sedan
+Mercedes-Benz,Maybach GLS,Petrol,10.0,Automatic,3982,5,Germany,344.0,SUV
+Volvo,XC90,Petrol,12.35,Automatic,1969,7,Sweden,96.97,SUV
+BMW,M4 CS,Petrol,9.7,Automatic,2993,4,Germany,179.0,Sedan
+Audi,S5 Sportback,Petrol,10.6,Automatic,2994,5,Germany,77.035,Sedan
+BMW,3 Series Long Wheelbase,Petrol,19.61,Automatic,1998,5,Germany,61.325,Sedan
+Audi,RS Q8,Petrol,9.0,Automatic,3998,5,Germany,232.0,SUV
+Mercedes-Benz,AMG S 63,Petrol,19.4,Automatic,3982,5,Germany,353.5,Coupe
+Mercedes-Benz,GLS,Petrol,10.5,Automatic,2999,7,Germany,142.0,SUV
+Mercedes-Benz,C-Class,Petrol,22.0,Automatic,1999,5,Germany,61.535,Sedan
+Mercedes-Benz,S-Class,Petrol,17.0,Automatic,2999,5,Germany,187.0,Sedan
+Mercedes-Benz,GLC,Petrol,18.3,Automatic,1999,5,Germany,74.6,SUV
+Mercedes-Benz,GLE,Petrol,15.0,Automatic,2999,5,Germany,99.5,SUV
+Mercedes-Benz,E-Class,Petrol,14.3,Automatic,2999,5,Germany,85.11,Sedan
+Mercedes-Benz,AMG GT Coupe,Petrol,11.0,Automatic,3982,2,Germany,316.5,Coupe
+Maruti Suzuki,Wagon R,Petrol,25.19,Manual/Automatic,1197,5,India,5.97,Hatchback
+Maruti Suzuki,Swift,Petrol,25.75,Manual/Automatic,1197,5,India,7.295,Hatchback
+Toyota,Camry,Petrol,25.49,Automatic,2487,5,Japan,47.48,SUV
+Hyundai,Creta,Petrol,23.4,Manual/Automatic,1497,5,South Korea,16.965,SUV
+Hyundai,Venue,Petrol,26.2,Manual/Automatic,1493,5,South Korea,10.07,SUV
+BMW,M2,Petrol,10.19,Automatic,2993,4,Germany,100.0,Sedan
+BMW,5 Series,Petrol,10.9,Automatic,1998,5,Germany,72.35,Sedan
+BMW,X1,Petrol,18.37,Automatic,1995,5,Germany,50.8,SUV
+BMW,X7,Petrol,12.31,Automatic,2998,7,Germany,135.0,SUV
+Toyota,Corolla Altis,Petrol,18.4,Manual/Automatic,1498,5,Japan,14.01,SUV
+Toyota,Urban Cruiser ,Petrol,19.46,Manual/Automatic,1199,5,Japan,8.705,SUV
+Audi,Q3,Petrol,10.14,Automatic,1984,5,Germany,48.025,SUV
+Mercedes-Benz,AMG C43,Petrol,10.0,Automatic,1991,5,Germany,94.05,Coupe
+Mercedes-Benz,GLA,Petrol,17.6,Automatic,1950,5,Germany,51.45,SUV
+Toyota,Yaris,Petrol,16.92,Manual/Automatic,1498,5,Japan,13.575,SUV
+Audi,Q5,Petrol,13.47,Automatic,1984,5,Germany,67.3,SUV
+Mercedes-Benz,AMG GT 4 Door Coupe,Petrol,7.0,Automatic,3982,5,Germany,327.0,Coupe
+Audi,A6,Petrol,14.11,Automatic,1984,5,Germany,66.815,Sedan
+Mercedes-Benz,AMG CLE 53,Petrol,10.0,Automatic,2999,4,Germany,128.0,Coupe
+Mercedes-Benz,AMG SL,Petrol,7.3,Automatic,3982,4,Germany,234.0,Coupe
+Mercedes-Benz,AMG C 63,Petrol,12.9,Automatic,1991,5,Germany,191.0,Coupe
+Mercedes-Benz,AMG GLC 43,Petrol,10.0,Automatic,1991,5,Germany,99.35,SUV
+Toyota,Innova Hycross,Petrol,23.24,Automatic,1987,8,Japan,24.495,SUV
+Mercedes-Benz,CLE Cabriolet,Petrol,12.0,Automatic,1999,4,Germany,111.0,Convertible
+Mercedes-Benz,AMG GLA 35,Petrol,10.0,Automatic,1991,5,Germany,58.5,SUV
+Nissan,X-Trail,Petrol,10.0,Automatic,1498,7,Japan,48.2,SUV
+Mercedes-Benz,Maybach SL 680,Petrol,7.8,Automatic,3982,2,Germany,412.0,Sedan
+Mercedes-Benz,AMG E 53 Cabriolet,Petrol,9.0,Automatic,2998,4,Germany,130.0,Coupe
+Mercedes-Benz,Maybach S-Class,Petrol,23.0,Automatic,5980,5,Germany,310.5,Sedan
+Mercedes-Benz,AMG GLE 53,Petrol,8.9,Automatic,2999,5,Germany,188.0,SUV
+Mercedes-Benz,A-Class Limousine,Petrol,14.3,Automatic,1950,5,Germany,45.335,Sedan
+Mercedes-Benz,G-Class,Petrol,8.3,Automatic,3982,5,Germany,345.5,Sedan
+Mercedes-Benz,AMG A 45 S,Petrol,10.0,Automatic,1991,5,Germany,94.8,Coupe
+Audi,Q3 Sportback,Petrol,10.14,Automatic,1984,5,Germany,53.265,SUV
+Audi,Q8,Petrol,10.0,Automatic,2995,5,Germany,110.0,SUV
+Volvo,XC60,Petrol,12.2,Automatic,1969,5,Sweden,67.11,SUV
+BMW,X5,Petrol,10.44,Automatic,2998,5,Germany,98.5,SUV
+Audi,Q7,Petrol,11.0,Automatic,2995,7,Germany,90.585,SUV
+Tata,Tiago NRG,Petrol,20.09,Manual/Automatic,1199,5,India,7.39,SUV
+Audi,A4,Petrol,15.0,Automatic,1984,5,Germany,50.68,Sedan
+Tata,Tigor,Petrol,19.6,Manual/Automatic,1199,5,India,7.115,SUV
+Renault,KWID,Petrol,22.3,Manual/Automatic,999,5,France,5.1,Hatchback
+Maruti Suzuki,Baleno,Petrol,22.94,Manual/Automatic,1197,5,India,7.545,Hatchback
+Renault,Triber,Petrol,20.0,Manual/Automatic,999,7,France,7.18,MPV / MUV
+Maruti Suzuki,Dzire,Petrol,25.71,Manual/Automatic,1197,5,India,7.785,Sedan
+Jeep,Grand Cherokee,Petrol,7.2,Automatic,1995,5,USA,63.0,SUV
+Maruti Suzuki,Brezza,Petrol,19.89,Manual/Automatic,1462,5,India,10.635,SUV
+Maruti Suzuki,Grand Vitara,Petrol,27.97,Manual/Automatic,1490,5,India,15.245,Sedan
+Jeep,Wrangler,Petrol,11.4,Automatic,1995,5,USA,65.945,SUV
+Kia,Carens Clavis,Petrol,19.54,Manual/Automatic,1497,7,South Korea,15.895,SUV
+Maruti Suzuki,Victoris,Petrol,28.65,Manual/Automatic,1490,5,India,15.245,Sedan
+Skoda,Octavia RS,Petrol,14.72,Automatic,1984,5,Czech Republic,49.99,SUV
+Skoda,Kodiaq,Petrol,14.86,Automatic,1984,7,Czech Republic,42.975,SUV
+Maruti Suzuki,Alto Tour H1,Petrol,24.39,Manual,998,5,India,4.41,MPV / MUV
+Maruti Suzuki,Ertiga,Petrol,20.51,Manual/Automatic,1462,7,India,10.87,MPV / MUV
+Maruti Suzuki,S-Presso,Petrol,25.3,Manual/Automatic,998,5,India,4.375,Sedan
+Maruti Suzuki,Celerio,Petrol,26.68,Manual/Automatic,998,5,India,5.715,Hatchback
+Skoda,Slavia,Petrol,20.32,Manual/Automatic,1498,5,Czech Republic,13.85,SUV
+Maruti Suzuki,XL6,Petrol,20.97,Manual/Automatic,1462,7,India,13.0,MPV / MUV
+Skoda,Kylaq,Petrol,19.68,Manual/Automatic,999,5,Czech Republic,10.175,SUV
+Maruti Suzuki,Jimny,Petrol,16.94,Manual/Automatic,1462,4,India,13.38,SUV
+Maruti Suzuki,Ignis,Petrol,20.89,Manual/Automatic,1197,5,India,6.45,Hatchback
+Maruti Suzuki,Eeco,Petrol,19.71,Manual,1197,7,India,5.785,Sedan
+MG,Hector Plus,Petrol,17.68,Manual/Automatic,1956,5,China,20.45,SUV
+Maruti Suzuki,Ciaz,Petrol,20.65,Manual/Automatic,1462,5,India,10.49,Sedan
+Maruti Suzuki,Invicto,Petrol,23.24,Automatic,1987,8,India,26.79,Sedan
+Toyota,Glanza,Petrol,22.94,Manual/Automatic,1197,5,Japan,7.77,SUV
+Maruti Suzuki,Dzire Tour S,Petrol,26.06,Manual,1197,5,India,6.67,Sedan
+Maruti Suzuki,Ertiga Tour,Petrol,18.04,Manual,1462,5,India,10.135,MPV / MUV
+Skoda,Kushaq,Petrol,19.76,Manual/Automatic,1498,5,Czech Republic,14.52,SUV
+Renault,Kiger,Petrol,20.38,Manual/Automatic,999,5,France,8.05,SUV
+Toyota,Etios Liva,Petrol,18.6,Manual/Automatic,1199,5,Japan,7.39,SUV
+Maruti Suzuki,Alto K10,Petrol,24.9,Manual/Automatic,998,5,India,4.575,Sedan
+Toyota,Rumion,Petrol,20.51,Manual/Automatic,1462,7,Japan,12.03,SUV
+Maruti Suzuki,FRONX,Petrol,22.89,Manual/Automatic,1197,5,India,9.415,SUV
+Nissan,Magnite,Petrol,19.9,Manual/Automatic,999,5,Japan,8.19,SUV
+Tata,Curvv,Petrol,14.0,Manual/Automatic,1497,5,India,14.425,SUV
+Tata,Tiago,Petrol,19.01,Manual/Automatic,1199,5,India,6.195,SUV
+Tata,Altroz,Petrol,19.33,Manual/Automatic,1497,5,India,8.405,SUV
+Tata,Nexon,Petrol,24.08,Manual/Automatic,1497,5,India,10.685,SUV
+Maruti Suzuki,Wagon R tour,Petrol,25.4,Manual,998,5,India,5.44,Hatchback
+Hyundai,i20,Petrol,20.0,Manual/Automatic,1197,5,South Korea,8.65,SUV
+Hyundai,Verna,Petrol,20.6,Manual/Automatic,1497,5,South Korea,13.835,SUV
+Hyundai,Aura,Petrol,17.0,Manual/Automatic,1197,5,South Korea,7.2,SUV
+Toyota,Vellfire,Petrol,16.0,Automatic,2487,7,Japan,125.0,SUV
+Hyundai,Exter,Petrol,19.4,Manual/Automatic,1197,5,South Korea,7.645,SUV
+Hyundai,Alcazar,Petrol,22.4,Manual/Automatic,1493,7,South Korea,18.335,SUV
+Tata,Punch,Petrol,20.09,Manual/Automatic,1199,5,India,7.4,SUV
+Toyota,Hyryder,Petrol,27.97,Manual/Automatic,1490,5,Japan,15.355,SUV
+MG,Astor,Petrol,15.43,Manual/Automatic,1498,5,China,12.945,SUV
+Hyundai,Tucson,Petrol,19.5,Automatic,1999,5,South Korea,32.48,SUV
+Maruti Suzuki,Eeco Cargo,Petrol,20.2,Manual,1197,2,India,6.0,Hatchback
+MG,Hector,Petrol,17.51,Manual/Automatic,1956,5,China,17.645,SUV
+Kia,Seltos,Petrol,22.7,Manual/Automatic,1497,5,South Korea,15.845,SUV
+Kia,Carens,Petrol,14.9,Manual,1497,7,South Korea,12.88,SUV
+Kia,Syros,Petrol,22.65,Manual/Automatic,1493,5,South Korea,12.905,SUV
+Kia,Sonet,Petrol,26.1,Manual/Automatic,1493,5,South Korea,11.33,SUV
+Toyota,Fortuner,Petrol,13.3,Manual/Automatic,2755,7,Japan,41.865,SUV
+Hyundai,i20 N-Line,Petrol,20.0,Manual/Automatic,998,5,South Korea,10.37,SUV
+Hyundai,Grand i10 Nios,Petrol,18.0,Manual/Automatic,1197,5,South Korea,6.695,SUV
+Hyundai,Venue N Line,Petrol,18.0,Manual/Automatic,998,5,South Korea,11.96,SUV
+Hyundai,Creta N Line,Petrol,18.2,Manual/Automatic,1482,5,South Korea,18.96,SUV
+Mercedes-Benz,G-Class,Diesel,8.47,Automatic,3982,5,Germany,342.5,Sedan
+MG,Hector,Diesel,15.58,Manual/Automatic,1956,5,China,17.38,SUV
+Tata,Nexon,Diesel,26.08,Manual/Automatic,1497,5,India,10.525,SUV
+Mercedes-Benz,C-Class,Diesel,23.0,Automatic,1999,5,Germany,61.475,Sedan
+Hyundai,Creta,Diesel,21.8,Manual/Automatic,1497,5,South Korea,15.465,SUV
+Mercedes-Benz,S-Class,Diesel,18.0,Automatic,2999,5,Germany,183.0,Sedan
+Tata,Altroz,Diesel,23.64,Manual/Automatic,1497,5,India,8.405,SUV
+Tata,Yodha Pickup,Diesel,13.0,Manual,2956,4,India,7.225,SUV
+Tata,Curvv,Diesel,12.0,Manual/Automatic,1497,5,India,14.255,SUV
+Toyota,Fortuner Legender,Diesel,10.52,Manual/Automatic,2755,7,Japan,44.145,SUV
+Toyota,Hilux,Diesel,10.0,Manual/Automatic,2755,5,Japan,31.695,SUV
+BMW,3 Series Long Wheelbase,Diesel,19.61,Automatic,1998,5,Germany,61.15,Sedan
+Jeep,Compass,Diesel,17.1,Manual/Automatic,1956,5,USA,24.115,SUV
+Tata,Harrier,Diesel,16.8,Manual/Automatic,1956,5,India,19.625,SUV
+Kia,Carens Clavis,Diesel,18.04,Manual/Automatic,1497,7,South Korea,14.75,SUV
+Mercedes-Benz,GLC,Diesel,19.4,Automatic,1999,5,Germany,73.95,SUV
+Tata,Safari,Diesel,16.3,Manual/Automatic,1956,7,India,20.31,SUV
+Mercedes-Benz,GLE,Diesel,16.0,Automatic,2999,5,Germany,98.3,SUV
+Mercedes-Benz,GLS,Diesel,12.0,Automatic,2999,7,Germany,137.0,SUV
+MG,Hector Plus,Diesel,15.58,Manual/Automatic,1956,5,China,19.4,SUV
+MG,Gloster,Diesel,10.0,Automatic,1996,7,China,40.745,SUV
+BMW,7 Series,Diesel,8.0,Automatic,2998,5,Germany,180.5,Sedan
+Jeep,Meridian,Diesel,14.1,Manual/Automatic,1956,5,USA,29.77,SUV
+Hyundai,Alcazar,Diesel,20.4,Manual/Automatic,1493,7,South Korea,17.785,SUV
+Mercedes-Benz,GLA,Diesel,18.9,Automatic,1950,5,Germany,51.2,SUV
+BMW,X3,Diesel,17.86,Automatic,1998,5,Germany,72.15,SUV
+BMW,X1,Diesel,20.37,Automatic,1995,5,Germany,51.4,SUV
+Kia,Sonet,Diesel,24.1,Manual/Automatic,1493,5,South Korea,10.65,SUV
+Kia,Carens,Diesel,12.6,Manual,1497,7,South Korea,11.88,SUV
+BMW,X7,Diesel,14.31,Automatic,2998,7,Germany,127.0,SUV
+Hyundai,Tucson,Diesel,18.0,Automatic,1999,5,South Korea,30.48,SUV
+Kia,Seltos,Diesel,20.7,Manual/Automatic,1497,5,South Korea,15.3,SUV
+Kia,Carnival,Diesel,14.85,Automatic,2151,7,South Korea,59.42,SUV
+Kia,Syros,Diesel,20.75,Manual/Automatic,1493,5,South Korea,12.305,SUV
+BMW,X5,Diesel,12.0,Automatic,2998,5,Germany,96.5,SUV
+Mercedes-Benz,A-Class Limousine,Diesel,15.5,Automatic,1950,5,Germany,45.2,Sedan
+Toyota,Innova Crysta,Diesel,9.0,Manual,2393,7,Japan,21.965,SUV
+Toyota,Land Cruiser 300,Diesel,11.0,Automatic,3346,7,Japan,220.5,SUV
+Hyundai,Venue,Diesel,24.2,Manual/Automatic,1493,5,South Korea,9.86,SUV
+Toyota,Fortuner,Diesel,11.0,Manual/Automatic,2755,7,Japan,41.25,SUV
+Mercedes-Benz,E-Class,Diesel,15.0,Automatic,2999,5,Germany,85.075,Sedan
+Maruti Suzuki,FRONX,CNG,23.77,Manual/Automatic,1197,5,India,9.32,SUV
+Maruti Suzuki,Swift,CNG,27.75,Manual/Automatic,1197,5,India,6.645,Hatchback
+Maruti Suzuki,Wagon R,CNG,27.19,Manual/Automatic,1197,5,India,5.4,Hatchback
+Maruti Suzuki,Wagon R tour,CNG,27.4,Manual,998,5,India,5.235,Hatchback
+Tata,Altroz,CNG,27.8,Manual/Automatic,1497,5,India,8.405,SUV
+Tata,Nexon,CNG,27.08,Manual/Automatic,1497,5,India,10.135,SUV
+Hyundai,Aura,CNG,19.0,Manual/Automatic,1197,5,South Korea,6.89,SUV
+Hyundai,Grand i10 Nios,CNG,20.1,Manual/Automatic,1197,5,South Korea,6.615,SUV
+Hyundai,Exter,CNG,22.1,Manual/Automatic,1197,5,South Korea,7.585,SUV
+Tata,Tigor,CNG,21.4,Manual/Automatic,1199,5,India,6.885,SUV
+Tata,Tiago NRG,CNG,22.05,Manual/Automatic,1199,5,India,7.425,SUV
+Maruti Suzuki,Ertiga,CNG,23.44,Manual/Automatic,1462,7,India,10.165,MPV / MUV
+Kia,Carens,CNG,14.5,Manual,1497,7,South Korea,11.525,SUV
+Maruti Suzuki,Baleno,CNG,23.98,Manual/Automatic,1197,5,India,7.265,Hatchback
+Tata,Tiago,CNG,22.01,Manual/Automatic,1199,5,India,6.07,SUV
+Maruti Suzuki,Brezza,CNG,21.89,Manual/Automatic,1462,5,India,10.555,SUV
+Nissan,Magnite,CNG,22.8,Manual/Automatic,999,5,Japan,7.805,SUV
+Toyota,Rumion,CNG,22.45,Manual/Automatic,1462,7,Japan,11.78,SUV
+Maruti Suzuki,Dzire,CNG,25.71,Manual/Automatic,1197,5,India,7.755,Sedan
+Toyota,Taisor,CNG,22.8,Manual/Automatic,1197,5,Japan,8.635,SUV
+Toyota,Glanza,CNG,24.9,Manual/Automatic,1197,5,Japan,7.65,SUV
+Tata,Punch,CNG,23.07,Manual/Automatic,1199,5,India,7.1,SUV
+Maruti Suzuki,S-Presso,CNG,26.3,Manual/Automatic,998,5,India,4.155,Sedan
+Maruti Suzuki,Alto Tour H1,CNG,26.45,Manual,998,5,India,4.375,MPV / MUV
+Toyota,Hyryder,CNG,28.97,Manual/Automatic,1490,5,Japan,14.685,SUV
+Maruti Suzuki,Dzire Tour S,CNG,27.56,Manual,1197,5,India,6.46,Sedan
+Maruti Suzuki,Eeco,CNG,21.05,Manual,1197,7,India,5.57,Sedan
+Maruti Suzuki,XL6,CNG,20.97,Manual/Automatic,1462,7,India,12.115,MPV / MUV
+Maruti Suzuki,Celerio,CNG,28.68,Manual/Automatic,998,5,India,5.305,Hatchback
+Maruti Suzuki,Alto K10,CNG,26.7,Manual/Automatic,998,5,India,4.36,Sedan
+Maruti Suzuki,Grand Vitara,CNG,29.13,Manual/Automatic,1490,5,India,14.385,Sedan
+Maruti Suzuki,Victoris,CNG,27.07,Manual/Automatic,1490,5,India,14.075,Sedan
+Maruti Suzuki,Ertiga Tour,CNG,20.04,Manual,1462,5,India,9.505,MPV / MUV
+Maruti Suzuki,Eeco Cargo,CNG,22.2,Manual,1197,2,India,5.97,Hatchback
+Mahindra,Scorpio N,Diesel,16.0,Manual/Automatic,2184,7,India,20.0,SUV
+Mahindra,XUV700,Petrol,17.5,Manual/Automatic,1997,7,India,20.5,SUV
+Mahindra,Thar,Diesel,15.2,Manual/Automatic,2184,4,India,15.0,SUV
+Mahindra,Bolero,Diesel,16.7,Manual,1493,7,India,10.5,SUV
+Force Motors,Gurkha,Diesel,13.0,Manual,2596,4,India,15.0,SUV
+Honda,City,Petrol,18.4,Manual/Automatic,1498,5,Japan,15.0,Sedan
+Honda,Amaze,Petrol,18.3,Manual/Automatic,1199,5,Japan,9.5,Sedan
+Honda,Elevate,Petrol,16.9,Manual/Automatic,1498,5,Japan,13.0,SUV
+Volkswagen,Virtus,Petrol,19.0,Manual/Automatic,999,5,Germany,14.0,Sedan
+Volkswagen,Taigun,Petrol,18.5,Manual/Automatic,1498,5,Germany,15.0,SUV
+Volkswagen,Tiguan,Petrol,13.5,Automatic,1984,5,Germany,35.0,SUV
+Porsche,Cayenne,Petrol,8.9,Automatic,3996,5,Germany,200.0,SUV
+Mini,Cooper S,Petrol,16.3,Automatic,1998,4,Germany,45.0,Hatchback
+Fiat,Punto,Petrol,18.0,Manual,1248,5,Italy,7.0,Hatchback
+Fiat,Linea,Diesel,20.0,Manual,1248,5,Italy,8.5,Sedan
+Ferrari,Roma,Petrol,8.0,Automatic,3855,2,Italy,376.0,Coupe
+Lamborghini,Urus,Petrol,7.8,Automatic,3996,5,Italy,418.0,SUV
+Peugeot,2008,Petrol,17.0,Manual/Automatic,1199,5,France,14.5,SUV
+Citroën,C3,Petrol,19.3,Manual,1198,5,France,9.0,Hatchback
+Ford,EcoSport,Petrol,16.5,Manual/Automatic,1497,5,USA,10.0,SUV
+Ford,Endeavour,Diesel,12.0,Automatic,1996,7,USA,34.5,SUV
+Chevrolet,Cruze,Diesel,18.3,Manual/Automatic,1998,5,USA,16.0,Sedan
+Chevrolet,Beat,Petrol,20.0,Manual,1199,5,USA,5.0,Hatchback
+Jaguar,XF,Diesel,19.0,Automatic,1999,5,UK,73.8,Sedan
+Land Rover,Defender,Diesel,12.5,Automatic,2998,7,UK,150.0,SUV
+Bentley,Continental GT,Petrol,8.0,Automatic,5998,4,UK,390.0,Coupe
+Rolls-Royce,Ghost,Petrol,6.8,Automatic,6750,4,UK,795.0,Sedan
+Isuzu,D-Max V-Cross,Diesel,14.0,Manual/Automatic,1898,5,Japan,26.0,Pickup Truck
+Mitsubishi,Outlander,Petrol,13.0,Automatic,2360,7,Japan,26.0,SUV
+SsangYong,Rexton,Diesel,11.0,Automatic,2157,7,South Korea,24.0,SUV
+Daewoo,Cielo,Petrol,15.0,Manual,1500,5,South Korea,6.0,Sedan
+Maserati,Levante,Petrol,9.0,Automatic,2979,5,Italy,145.0,SUV
+Aston Martin,DB11,Petrol,7.6,Automatic,3998,2,UK,380.0,Coupe
+Lotus,Evora,Petrol,10.0,Manual,3456,2,UK,205.0,Coupe
+Mahindra,XUV500,Diesel,15.6,Manual/Automatic,2179,7,India,15.5,SUV
+Mahindra,Quanto,Diesel,17.2,Manual,1493,5,India,9.0,SUV
+Mahindra,TUV300,Diesel,18.0,Manual,1493,7,India,10.5,SUV
+Mahindra,KUV100 NXT,Petrol,18.2,Manual,1198,5,India,7.5,Hatchback
+Mahindra,Verito,Diesel,20.0,Manual,1461,5,India,8.0,Sedan
+Mahindra,Xylo,Diesel,15.9,Manual,2179,7,India,11.5,MPV / MUV
+Tata,Safari Storme,Diesel,14.0,Manual,2179,7,India,13.0,SUV
+Tata,Zest,Petrol,20.0,Manual,1248,5,India,7.2,Sedan
+Tata,Bolt,Diesel,18.5,Manual,1248,5,India,6.5,Hatchback
+Tata,Sumo Gold,Diesel,15.0,Manual,2956,7,India,8.5,SUV
+Honda,Civic,Diesel,18.0,Manual/Automatic,1799,5,Japan,18.0,Sedan
+Honda,Civic 0.2,Petrol,19.0,Manual/Automatic,1799,5,Japan,18.0,Sedan
+Honda,BR-V,Petrol,15.4,Manual/Automatic,1498,7,Japan,12.0,SUV
+Honda,Accord,Petrol,18.5,Automatic,1993,5,Japan,43.0,Sedan
+Toyota,Etios,Diesel,23.5,Manual,1364,5,Japan,7.8,Sedan
+Nissan,Sunny,Diesel,22.7,Manual,1461,5,Japan,9.3,Sedan
+Nissan,Micra,Petrol,23.1,Manual,1461,5,Japan,7.0,Hatchback
+Mitsubishi,Pajero Sport,Diesel,13.5,Manual/Automatic,2477,7,Japan,30.0,SUV
+Volkswagen,Polo,Petrol,18.2,Manual/Automatic,999,5,Germany,8.5,Hatchback
+Volkswagen,Vento,Diesel,20.6,Manual/Automatic,1498,5,Germany,11.0,Sedan
+Skoda,Rapid,Petrol,18.9,Manual/Automatic,1498,5,Czech Republic,11.0,Sedan
+BMW,3 GT,Diesel,18.6,Automatic,1995,5,Germany,50.0,Sedan
+Mercedes-Benz,B-Class,Diesel,18.0,Automatic,2143,5,Germany,34.0,Hatchback
+Audi,Q2,Petrol,15.0,Automatic,1984,5,Germany,39.0,SUV
+Ford,Figo,Diesel,24.4,Manual,1194,5,USA,7.0,Hatchback
+Ford,Aspire,Diesel,24.4,Manual/Automatic,1498,5,USA,8.2,Sedan
+Chevrolet,Tavera,Diesel,14.8,Manual,2499,7,USA,10.0,MPV / MUV
+Chevrolet,Sail,Petrol,22.1,Manual,1248,5,USA,7.8,Sedan
+Fiat,Avventura,Diesel,20.5,Manual,1248,5,Italy,8.2,Crossover
+Renault,Lodgy,Diesel,21.0,Manual,1461,7,France,10.5,MPV / MUV
+Renault,Duster,Diesel,19.8,Manual/Automatic,1461,5,France,11.5,SUV
+Jaguar,XJ,Diesel,14.5,Automatic,2993,5,UK,110.0,Sedan
+Land Rover,Discovery Sport,Diesel,13.2,Automatic,1999,7,UK,69.0,SUV
+MG,ZS Petrol,Petrol,17.5,Automatic,1498,5,China,13.0,SUV
+Daewoo,Matiz,Petrol,18.0,Manual,796,4,South Korea,4.5,Hatchback
+Opel,Corsa,Petrol,17.5,Manual,1389,5,Germany,6.2,Hatchback
+Peugeot,307,Petrol,15.0,Manual,1998,5,France,10.0,Sedan
+SsangYong,Alturas G4,Diesel,12.5,Automatic,2157,7,South Korea,30.0,SUV
+Maruti Suzuki,Swift ZXi,Petrol,26.07,Automatic,1197,5,India,6.48,Hatchback
+Maruti Suzuki,Swift SX(O),Petrol,24.79,Manual,1197,5,India,8.45,Hatchback
+Maruti Suzuki,Swift E,Petrol,25.73,Manual/Automatic,1197,5,India,8.05,Hatchback
+Maruti Suzuki,Swift EX,Petrol,24.0,Manual/Automatic,1197,5,India,9.28,Hatchback
+Maruti Suzuki,Baleno ZXi,Petrol,23.69,Automatic,1197,5,India,7.27,Hatchback
+Maruti Suzuki,Baleno Base,Petrol,23.55,Manual,1197,5,India,8.44,Hatchback
+Maruti Suzuki,Baleno EX,Petrol,21.97,Manual/Automatic,1197,5,India,9.05,Hatchback
+Maruti Suzuki,Baleno AX5,Petrol,23.66,Manual/Automatic,1197,5,India,7.13,Hatchback
+Maruti Suzuki,Baleno Trend,Petrol,22.51,Manual/Automatic,1197,5,India,8.87,Hatchback
+Maruti Suzuki,Dzire Signature,Petrol,25.16,Automatic,1197,5,India,8.68,Sedan
+Maruti Suzuki,Dzire Base,Petrol,24.19,Manual,1197,5,India,7.55,Sedan
+Maruti Suzuki,Dzire EX,Petrol,26.26,Manual/Automatic,1197,5,India,9.2,Sedan
+Maruti Suzuki,Dzire ZXi+,Petrol,26.66,Manual,1197,5,India,9.6,Sedan
+Hyundai,Creta E,Petrol,18.26,Manual,1497,5,South Korea,16.23,SUV
+Hyundai,Creta VXi,Petrol,18.59,Manual,1497,5,South Korea,16.6,SUV
+Hyundai,Creta SX(O),Petrol,19.08,Automatic,1497,5,South Korea,18.2,SUV
+Hyundai,Venue Signature,Petrol,18.63,Manual/Automatic,1197,5,South Korea,11.77,SUV
+Hyundai,Venue SX,Petrol,18.3,Manual,1197,5,South Korea,10.28,SUV
+Hyundai,Venue ZXi+,Petrol,18.36,Manual,1197,5,South Korea,9.95,SUV
+Tata,Nexon E,Petrol,23.38,Manual/Automatic,1497,5,India,13.06,SUV
+Tata,Nexon ZXi,Petrol,25.01,Automatic,1497,5,India,11.79,SUV
+Tata,Nexon Base,Petrol,23.82,Automatic,1497,5,India,9.78,SUV
+Tata,Nexon SX(O),Petrol,25.07,Automatic,1497,5,India,9.9,SUV
+Tata,Nexon AX5,Petrol,25.24,Manual,1497,5,India,12.61,SUV
+Tata,Altroz Signature,Petrol,17.71,Automatic,1497,5,India,7.42,Hatchback
+Tata,Altroz ZXi+,Petrol,20.31,Manual,1497,5,India,8.47,Hatchback
+Tata,Altroz AX5,Petrol,17.57,Automatic,1497,5,India,10.78,Hatchback
+Tata,Altroz EX,Petrol,19.28,Manual/Automatic,1497,5,India,9.81,Hatchback
+Tata,Harrier ZXi+,Diesel,16.91,Manual,1956,5,India,19.8,SUV
+Tata,Harrier SX,Diesel,16.11,Manual/Automatic,1956,5,India,20.34,SUV
+Tata,Harrier AX5,Diesel,17.1,Manual/Automatic,1956,5,India,18.81,SUV
+Tata,Harrier E,Diesel,16.29,Automatic,1956,5,India,18.97,SUV
+Tata,Harrier EX,Diesel,15.2,Manual/Automatic,1956,5,India,21.44,SUV
+Toyota,Fortuner ZXi+,Diesel,10.83,Manual,2755,7,Japan,42.6,SUV
+Toyota,Fortuner VXi,Diesel,11.05,Manual,2755,7,Japan,42.73,SUV
+Toyota,Fortuner LXi,Diesel,13.14,Manual,2755,7,Japan,41.05,SUV
+Toyota,Fortuner Titanium,Diesel,11.15,Automatic,2755,7,Japan,43.43,SUV
+Toyota,Innova Crysta ZXi+,Diesel,14.24,Manual/Automatic,2393,7,Japan,22.53,MPV / MUV
+Toyota,Innova Crysta AX7,Diesel,14.94,Manual,2393,7,Japan,22.58,MPV / MUV
+Toyota,Innova Crysta Signature,Diesel,13.19,Automatic,2393,7,Japan,24.17,MPV / MUV
+Kia,Seltos Titanium,Petrol,20.61,Manual,1497,5,South Korea,14.91,SUV
+Kia,Seltos SX,Petrol,18.91,Automatic,1497,5,South Korea,15.7,SUV
+Kia,Seltos Trend,Petrol,19.47,Manual,1497,5,South Korea,17.29,SUV
+Kia,Seltos Base,Petrol,18.05,Manual,1497,5,South Korea,17.37,SUV
+Kia,Sonet Base,Petrol,19.75,Manual,1493,5,South Korea,13.26,SUV
+Kia,Sonet E,Petrol,20.4,Automatic,1493,5,South Korea,12.2,SUV
+Kia,Sonet SX(O),Petrol,19.96,Manual,1493,5,South Korea,10.66,SUV
+Kia,Sonet ZXi,Petrol,20.7,Manual/Automatic,1493,5,South Korea,13.62,SUV
+Mahindra,XUV700 Titanium,Diesel,16.54,Automatic,2184,7,India,19.54,SUV
+Mahindra,XUV700 VXi,Diesel,17.06,Manual/Automatic,2184,7,India,21.66,SUV
+Mahindra,XUV700 E,Diesel,17.14,Manual/Automatic,2184,7,India,20.83,SUV
+Mahindra,XUV700 ZXi,Diesel,14.91,Manual,2184,7,India,22.28,SUV
+Mahindra,Thar Trend,Diesel,14.94,Manual,2184,4,India,14.87,SUV
+Mahindra,Thar EX,Diesel,15.52,Manual,2184,4,India,15.96,SUV
+Mahindra,Thar LXi,Diesel,13.76,Manual/Automatic,2184,4,India,16.29,SUV
+Honda,City E,Petrol,19.82,Manual/Automatic,1498,5,Japan,14.96,Sedan
+Honda,City LXi,Petrol,17.85,Manual/Automatic,1498,5,Japan,15.84,Sedan
+Honda,City AX5,Petrol,17.26,Manual,1498,5,Japan,17.07,Sedan
+Honda,City EX,Petrol,19.7,Automatic,1498,5,Japan,14.16,Sedan

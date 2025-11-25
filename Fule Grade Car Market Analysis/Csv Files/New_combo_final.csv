@@ -1,0 +1,732 @@
+Brand_Name,Model_Name,Fuel_Type,Price (₹ Lakh),Transmission_Type,Country_Origin,Car_Type
+Mercedes-Benz,Phantom-X91,Electric,128.095,Automatic,Germany,Sedan
+Toyota,Urban Cruiser ,Petrol,8.705,Manual/Automatic,Japan,SUV
+Tata,Harrier ZXi+,Diesel,19.8,Manual,India,SUV
+Genesis,GV70 Electrified-X1,Electric,189.805,Automatic,South Korea,Wagon
+Audi,SQ6 Sportback e-tron,Electric,193.545,Automatic,Germany,SUV
+Audi,e-tron Sportback-X2,Electric,195.415,Automatic,Germany,SUV
+Mercedes-Benz,AMG GT 4 Door Coupe,Petrol,327.0,Automatic,Germany,Coupe
+Opel,L-X2,Electric,11.37,Automatic,Germany,Hatchback
+NIO,ET7,Electric,187.935,Automatic,China,Crossover
+Volvo,XC40 P8 Recharge,Electric,161.755,Automatic,Sweden,Coupe
+TOGG,T10F Range-X2,Electric,76.67,Automatic,Turkey,Crossover
+Peugeot,e-X2,Electric,136.51,Automatic,France,SUV
+Toyota,Fortuner,Diesel,41.25,Manual/Automatic,Japan,SUV
+Volvo,EX90-X2,Electric,174.845,Automatic,Sweden,SUV
+Renault,Triber,Petrol,7.18,Manual/Automatic,France,MPV / MUV
+Maruti Suzuki,S-Presso,Petrol,4.375,Manual/Automatic,India,Sedan
+Kia,Carens Clavis,Petrol,15.895,Manual/Automatic,South Korea,SUV
+Porsche,Cross Turismo,Electric,325.38,Automatic,Germany,SUV
+Maruti Suzuki,Brezza,CNG,10.555,Manual/Automatic,India,SUV
+Peugeot,Electric-X1,Electric,285.175,Automatic,France,SUV
+Porsche,Phantom-X67,Electric,286.11,Automatic,Germany,Sedan
+BYD,7-X1,Electric,113.135,Automatic,China,Crossover
+Volvo,C40 Recharge Twin Electric,Electric,158.95,Automatic,Sweden,Coupe SUV
+Maruti Suzuki,Baleno,Petrol,7.545,Manual/Automatic,India,Hatchback
+Mercedes-Benz,G-Class,Petrol,345.5,Automatic,Germany,Sedan
+Mahindra,Quanto,Diesel,9.0,Manual,India,SUV
+Maruti Suzuki,XL6,Petrol,13.0,Manual/Automatic,India,MPV / MUV
+Audi,Q8 e-tron-X2,Electric,84.93,Automatic,Germany,SUV
+Renault,5 E-Tech-X2,Electric,60.08,Automatic,France,Hatchback
+Hyundai,9 Range-X2,Electric,77.77,Automatic,South Korea,Hatchback
+Abarth,500e-X1,Electric,158.015,Automatic,Italy,Coupe
+Hyundai,Creta VXi,Petrol,16.6,Manual,South Korea,SUV
+Peugeot,e-308 SW-X2,Electric,130.9,Automatic,France,Wagon
+MG,R-X2,Electric,116.875,Automatic,United Kingdom,SUV
+BYD,Phantom-X40,Electric,186.065,Automatic,China,Sedan
+Hyundai,6 2WD,Electric,125.29,Automatic,South Korea,Coupe
+Kia,EV5,Electric,105.655,Automatic,South Korea,Crossover
+Tesla,S 75D,Electric,45.39,Automatic,United States,Hatchback
+Mahindra,Thar LXi,Diesel,16.29,Manual/Automatic,India,SUV
+Volvo,XC90,Petrol,96.97,Automatic,Sweden,SUV
+Hyundai,Alcazar,Petrol,18.335,Manual/Automatic,South Korea,SUV
+Kia,e-Soul-X2,Electric,145.86,Automatic,South Korea,Hatchback
+Genesis,GV60-X5,Electric,54.95,Automatic,South Korea,Crossover
+Hyundai,Tucson,Diesel,30.48,Automatic,South Korea,SUV
+Genesis,GV60-X4,Electric,184.195,Automatic,South Korea,Wagon
+Mercedes-Benz,eVito-X1,Electric,87.56,Automatic,Germany,Coupe
+Maruti Suzuki,Ertiga Tour,CNG,9.505,Manual,India,MPV / MUV
+Volvo,XC40 Recharge Twin Electric,Electric,160.82,Automatic,Sweden,SUV
+Leapmotor,B10,Electric,86.955,Automatic,China,Sedan
+Alpine,A290 Electric-X1,Electric,43.88,Automatic,France,Coupe
+Honda,Accord,Petrol,43.0,Automatic,Japan,Sedan
+Volkswagen,e-X1,Electric,274.89,Automatic,Germany,Wagon
+Mercedes-Benz,Nebula-X7,Electric,199.155,Automatic,Germany,Crossover
+Volkswagen,Tiguan,Petrol,35.0,Automatic,Germany,SUV
+Isuzu,D-Max V-Cross,Diesel,26.0,Manual/Automatic,Japan,Pickup Truck
+Honda,Civic,Diesel,18.0,Manual/Automatic,Japan,Sedan
+Jaguar,XJ,Diesel,110.0,Automatic,UK,Sedan
+Toyota,Fortuner,Petrol,41.865,Manual/Automatic,Japan,SUV
+Hyundai,Alcazar,Diesel,17.785,Manual/Automatic,South Korea,SUV
+Hongqi,E-HS9-X3,Electric,174.845,Automatic,China,Wagon
+Peugeot,e-X14,Electric,115.94,Automatic,France,Crossover
+Mercedes-Benz,AMG,Electric,281.435,Automatic,Germany,SUV
+Maruti Suzuki,FRONX,Petrol,9.415,Manual/Automatic,India,SUV
+Audi,Q4 Sportback e-tron-X2,Electric,129.03,Automatic,Germany,SUV
+Audi,Q4 Sportback e-tron-X3,Electric,21.07,Automatic,Germany,SUV
+Ford,Range-X6,Electric,104.72,Automatic,United States,Wagon
+BMW,i5 xDrive40 Touring,Electric,171.105,Automatic,Germany,Coupe
+Porsche,Cayenne,Petrol,200.0,Automatic,Germany,SUV
+Tata,Tigor,Petrol,7.115,Manual/Automatic,India,SUV
+Audi,SQ8 e-tron,Electric,213.18,Automatic,Germany,SUV
+Maruti Suzuki,Ertiga,Petrol,10.87,Manual/Automatic,India,MPV / MUV
+Mercedes-Benz,Maybach SL 680,Petrol,412.0,Automatic,Germany,Sedan
+Honda,e Advance,Electric,40.22,Automatic,Japan,Hatchback
+Kia,Syros,Petrol,12.905,Manual/Automatic,South Korea,SUV
+Peugeot,e-X11,Electric,208.505,Automatic,France,Wagon
+Tata,Altroz,Petrol,8.405,Manual/Automatic,India,SUV
+Opel,Phantom-X82,Electric,97.24,Automatic,Germany,Sedan
+Hyundai,Venue ZXi+,Petrol,9.95,Manual,South Korea,SUV
+Maruti Suzuki,Wagon R,Petrol,5.97,Manual/Automatic,India,Hatchback
+Kia,Syros,Diesel,12.305,Manual/Automatic,South Korea,SUV
+Porsche,Phantom-X97,Electric,62.57,Automatic,Germany,Sedan
+MG,Hector Plus,Petrol,20.45,Manual/Automatic,China,SUV
+Lightyear,Phantom-X89,Electric,512.38,Automatic,Finland,Sedan
+Fisker,Phantom-X79,Electric,110.33,Automatic,United States,Sedan
+Toyota,Verso-X1,Electric,158.95,Automatic,Japan,Sedan
+Peugeot,e-X13,Electric,128.095,Automatic,France,Hatchback
+Land Rover,Discovery Sport,Diesel,69.0,Automatic,UK,SUV
+Honda,City E,Petrol,14.96,Manual/Automatic,Japan,Sedan
+TOGG,T10X,Electric,120.615,Automatic,Turkey,Crossover
+MG,Vertex-X5,Electric,131.835,Automatic,United Kingdom,Crossover
+BMW,X1,Petrol,50.8,Automatic,Germany,SUV
+Ford,Range-X7,Electric,49.68,Automatic,United States,SUV
+Lucid,Phantom-X84,Electric,141.185,Automatic,United States,Sedan
+Toyota,Phantom-X32,Electric,65.96,Automatic,Japan,Sedan
+Zeekr,001 Privilege,Electric,17.51,Automatic,China,Wagon
+Fiat,500e-X3,Electric,133.705,Automatic,Italy,Hatchback
+Skoda,Rapid,Petrol,11.0,Manual/Automatic,Czech Republic,Sedan
+Renault,EV40,Electric,141.185,Automatic,France,Hatchback
+Tata,Curvv,Diesel,14.255,Manual/Automatic,India,SUV
+Hyundai,Exter,CNG,7.585,Manual/Automatic,South Korea,SUV
+Polestar,2 Range-X2,Electric,115.94,Automatic,Sweden,Hatchback
+Citroën,C3,Petrol,9.0,Manual,France,Hatchback
+Volvo,XC40 Recharge-X1,Electric,134.64,Automatic,Sweden,SUV
+Maruti Suzuki,Ignis,Petrol,6.45,Manual/Automatic,India,Hatchback
+Maruti Suzuki,Celerio,Petrol,5.715,Manual/Automatic,India,Hatchback
+Audi,A6 Sportback e-tron-X2,Electric,14.28,Automatic,Germany,SUV
+Peugeot,e-Expert Standard,Electric,253.385,Automatic,France,Hatchback
+Volvo,EX30,Electric,52.75,Automatic,Sweden,SUV
+BMW,i4 M50,Electric,158.95,Automatic,Germany,Sedan
+BMW,X7,Petrol,135.0,Automatic,Germany,SUV
+Ford,Endeavour,Diesel,34.5,Automatic,USA,SUV
+Lucid,Touring-X1,Electric,176.715,Automatic,United States,Coupe
+Maruti Suzuki,Swift EX,Petrol,9.28,Manual/Automatic,India,Hatchback
+Audi,Q4 e-tron-X6,Electric,149.6,Automatic,Germany,SUV
+Peugeot,e-X15,Electric,24.63,Automatic,France,Sedan
+Ford,Aspire,Diesel,8.2,Manual/Automatic,USA,Sedan
+Mercedes-Benz,AMG A 45 S,Petrol,94.8,Automatic,Germany,Coupe
+Opel,Orion-X11,Electric,185.13,Automatic,Germany,Crossover
+Maruti Suzuki,Grand Vitara,CNG,14.385,Manual/Automatic,India,Sedan
+Mitsubishi,i-MiEV,Electric,319.77,Automatic,Japan,SUV
+DS Automobiles,3 E-Tense,Electric,49.72,Automatic,France,Crossover
+Kia,Sonet ZXi,Petrol,13.62,Manual/Automatic,South Korea,SUV
+Maruti Suzuki,Alto Tour H1,Petrol,4.41,Manual,India,MPV / MUV
+BMW,Z4,Petrol,90.25,Manual/Automatic,Germany,Sedan
+Renault,Q90,Electric,29.18,Automatic,France,Coupe
+Lucid,Touring-X3,Electric,203.83,Automatic,United States,SUV
+Maruti Suzuki,Eeco Cargo,CNG,5.97,Manual,India,Hatchback
+Kia,Seltos Trend,Petrol,17.29,Manual,South Korea,SUV
+Audi,Q7,Petrol,90.585,Automatic,Germany,SUV
+Mini,E-X2,Electric,111.265,Automatic,United Kingdom,SUV
+Tata,Harrier AX5,Diesel,18.81,Manual/Automatic,India,SUV
+Toyota,Fortuner VXi,Diesel,42.73,Manual,Japan,SUV
+XPENG,G9 Range,Electric,20.28,Automatic,China,SUV
+Audi,Q6 e-tron-X2,Electric,30.0,Automatic,Germany,SUV
+Mahindra,XUV500,Diesel,15.5,Manual/Automatic,India,SUV
+Maruti Suzuki,Dzire Tour S,Petrol,6.67,Manual,India,Sedan
+BYD,Phantom-X43,Electric,114.07,Automatic,China,Sedan
+Changan Deepal,S05 4WD Max,Electric,115.005,Automatic,China,Hatchback
+Maruti Suzuki,Brezza,Petrol,10.635,Manual/Automatic,India,SUV
+Mini,Cooper S,Petrol,45.0,Automatic,Germany,Hatchback
+Tata,Altroz,Diesel,8.405,Manual/Automatic,India,SUV
+Mercedes-Benz,AMG GLC 43,Petrol,99.35,Automatic,Germany,SUV
+Maruti Suzuki,Grand Vitara,Petrol,15.245,Manual/Automatic,India,Sedan
+Maruti Suzuki,Eeco,CNG,5.57,Manual,India,Sedan
+Honda,City LXi,Petrol,15.84,Manual/Automatic,Japan,Sedan
+Mercedes-Benz,E-Class,Diesel,85.075,Automatic,Germany,Sedan
+Toyota,Hilux,Diesel,31.695,Manual/Automatic,Japan,SUV
+BMW,iX xDrive60,Electric,182.325,Automatic,Germany,SUV
+Nissan,Micra,Petrol,7.0,Manual,Japan,Hatchback
+BMW,i3s-X1,Electric,26.53,Automatic,Germany,Hatchback
+Chevrolet,Tavera,Diesel,10.0,Manual,USA,MPV / MUV
+BMW,i5 M60,Electric,238.425,Automatic,Germany,Hatchback
+BMW,3 Series Long Wheelbase,Diesel,61.15,Automatic,Germany,Sedan
+Ferrari,Roma,Petrol,376.0,Automatic,Italy,Coupe
+BMW,M4 Competition,Petrol,152.0,Automatic,Germany,Sedan
+Mahindra,XUV700 ZXi,Diesel,22.28,Manual,India,SUV
+Peugeot,e- Standard,Electric,270.215,Automatic,France,Coupe
+Leapmotor,C11,Electric,46.58,Automatic,China,SUV
+Tata,Nexon E,Petrol,13.06,Manual/Automatic,India,SUV
+MG,Gloster,Diesel,40.745,Automatic,China,SUV
+Kia,EV4,Electric,105.655,Automatic,South Korea,Hatchback
+Tata,Yodha Pickup,Diesel,7.225,Manual,India,SUV
+Toyota,Innova Crysta Signature,Diesel,24.17,Automatic,Japan,MPV / MUV
+BMW,i4 xDrive40,Electric,123.42,Automatic,Germany,Sedan
+Mercedes-Benz,AMG CLE 53,Petrol,128.0,Automatic,Germany,Coupe
+Hyundai,Exter,Petrol,7.645,Manual/Automatic,South Korea,SUV
+MG,MG5 Electric Range,Electric,13.13,Automatic,United Kingdom,Estate
+Audi,Q3 Sportback,Petrol,53.265,Automatic,Germany,SUV
+Opel,Phantom-X1,Electric,198.22,Automatic,Germany,Sedan
+Volkswagen,Virtus,Petrol,14.0,Manual/Automatic,Germany,Sedan
+Audi,Q4 e-tron-X5,Electric,157.08,Automatic,Germany,SUV
+Porsche,Turismo-X2,Electric,305.745,Automatic,Germany,Wagon
+Maruti Suzuki,Swift,Petrol,7.295,Manual/Automatic,India,Hatchback
+Renault,ZE,Electric,220.66,Automatic,France,SUV
+Mercedes-Benz,Phantom-X35,Electric,165.495,Automatic,Germany,Sedan
+Kia,EV6 GT,Electric,185.13,Automatic,South Korea,Crossover
+Suzuki,e VITARA 2WD-X2,Electric,103.785,Automatic,Japan,SUV
+Genesis,GV60-X2,Electric,153.34,Automatic,South Korea,Sedan
+Tata,Punch,Petrol,7.4,Manual/Automatic,India,SUV
+Skoda,Kylaq,Petrol,10.175,Manual/Automatic,Czech Republic,SUV
+Mercedes-Benz,Maybach S-Class,Petrol,310.5,Automatic,Germany,Sedan
+Renault,5 E-Tech-X3,Electric,86.955,Automatic,France,Sedan
+Tesla,Y Standard,Electric,100.045,Automatic,United States,Hatchback
+Mercedes-Benz,Phantom-X85,Electric,165.495,Automatic,Germany,Sedan
+Lotus,Phantom-X75,Electric,189.805,Automatic,United Kingdom,Sedan
+Mercedes-Benz,Phantom-X71,Electric,249.645,Automatic,Germany,Sedan
+Ford,SR,Electric,159.885,Automatic,United States,Wagon
+BMW,i3,Electric,211.31,Automatic,Germany,Hatchback
+Lucid,Edition R,Electric,300.135,Automatic,United States,Crossover
+Mercedes-Benz,S-Class,Petrol,187.0,Automatic,Germany,Sedan
+Renault,EV60-X2,Electric,89.76,Automatic,France,Crossover
+Audi,Q4 e-tron-X1,Electric,161.755,Automatic,Germany,SUV
+Tata,Nexon ZXi,Petrol,11.79,Automatic,India,SUV
+Mercedes-Benz,Phantom-X44,Electric,155.21,Automatic,Germany,Sedan
+Maruti Suzuki,Jimny,Petrol,13.38,Manual/Automatic,India,SUV
+Tata,Tiago NRG,Petrol,7.39,Manual/Automatic,India,SUV
+Force Motors,Gurkha,Diesel,15.0,Manual,India,SUV
+Abarth,500e-X5,Electric,77.36,Automatic,Italy,SUV
+BMW,5 Series,Petrol,72.35,Automatic,Germany,Sedan
+Maserati,Levante,Petrol,145.0,Automatic,Italy,SUV
+Fiat,Punto,Petrol,7.0,Manual,Italy,Hatchback
+Omoda,E5,Electric,107.525,Automatic,China,Sedan
+Volvo,EX90-X3,Electric,34.91,Automatic,Sweden,SUV
+Nissan,Magnite,CNG,7.805,Manual/Automatic,Japan,SUV
+Hyundai,6 Range,Electric,126.225,Automatic,South Korea,Wagon
+Toyota,Etios,Diesel,7.8,Manual,Japan,Sedan
+Nissan,Phantom-X51,Electric,118.745,Automatic,Japan,Sedan
+Fiat,500e-X2,Electric,55.87,Automatic,Italy,Hatchback
+BMW,i7 xDrive60,Electric,254.32,Automatic,Germany,Sedan
+Genesis,GV60-X3,Electric,148.665,Automatic,South Korea,Crossover
+Mercedes-Benz,Phantom-X77,Electric,167.365,Automatic,Germany,Sedan
+Volkswagen,Taigun,Petrol,15.0,Manual/Automatic,Germany,SUV
+Audi,e-tron Sportback-X1,Electric,228.14,Automatic,Germany,SUV
+Dacia,Inferno-X26,Electric,65.08,Automatic,Romania,SUV
+Tata,Tiago NRG,CNG,7.425,Manual/Automatic,India,SUV
+Tata,Altroz EX,Petrol,9.81,Manual/Automatic,India,Hatchback
+Alfa Romeo,Elettrica,Electric,114.07,Automatic,Italy,Sedan
+Audi,Q4 e-tron-X2,Electric,37.25,Automatic,Germany,SUV
+Renault,Duster,Diesel,11.5,Manual/Automatic,France,SUV
+Jeep,Compass,Diesel,24.115,Manual/Automatic,USA,SUV
+Jaguar,XF,Diesel,73.8,Automatic,UK,Sedan
+Tesla,S P100D,Electric,290.785,Automatic,United States,Coupe
+Smart,Smart,Electric,112.2,Automatic,Germany,Wagon
+Hyundai,Venue,Diesel,9.86,Manual/Automatic,South Korea,SUV
+Renault,R90,Electric,65.43,Automatic,France,Crossover
+BMW,i5 eDrive40,Electric,155.21,Automatic,Germany,Hatchback
+Nissan,Range-X3,Electric,91.63,Automatic,Japan,Crossover
+Fiat,Raven-X19,Electric,89.76,Automatic,Italy,Hatchback
+Opel,Astro-X12,Electric,115.94,Automatic,Germany,SUV
+Renault,4 E-Tech-X1,Electric,40.83,Automatic,France,Wagon
+Jaecoo,5 EV,Electric,20.62,Automatic,China,Crossover
+Hyundai,i20,Petrol,8.65,Manual/Automatic,South Korea,SUV
+Maruti Suzuki,Eeco Cargo,Petrol,6.0,Manual,India,Hatchback
+Audi,A6 Avant e-tron-X1,Electric,129.03,Automatic,Germany,SUV
+Mahindra,Xylo,Diesel,11.5,Manual,India,MPV / MUV
+Tesla,X Dual Motor,Electric,226.27,Automatic,United States,Crossover
+Tata,Nexon SX(O),Petrol,9.9,Automatic,India,SUV
+Skoda,Kushaq,Petrol,14.52,Manual/Automatic,Czech Republic,SUV
+BMW,7 Series,Petrol,185.5,Automatic,Germany,Sedan
+Toyota,Glanza,Petrol,7.77,Manual/Automatic,Japan,SUV
+Mercedes-Benz,Phantom-X58,Electric,53.15,Automatic,Germany,Sedan
+Volkswagen,e-X7,Electric,257.125,Automatic,Germany,Wagon
+Lucid,Touring-X2,Electric,172.04,Automatic,United States,Crossover
+Lotus,S-X3,Electric,229.075,Automatic,United Kingdom,Sedan
+Tesla,3 Range-X1,Electric,115.94,Automatic,United States,Crossover
+Audi,Q4 e-tron-X3,Electric,130.9,Automatic,Germany,SUV
+Mini,E-X1,Electric,129.03,Automatic,United Kingdom,Wagon
+Peugeot,e-Rifter,Electric,74.08,Automatic,France,Sedan
+BMW,M4 CS,Petrol,179.0,Automatic,Germany,Sedan
+Mercedes-Benz,GLC,Diesel,73.95,Automatic,Germany,SUV
+BMW,M2,Petrol,100.0,Automatic,Germany,Sedan
+Mercedes-Benz,AMG C 63,Petrol,191.0,Automatic,Germany,Coupe
+Mercedes-Benz,AMG SL,Petrol,234.0,Automatic,Germany,Coupe
+Maruti Suzuki,Victoris,Petrol,15.245,Manual/Automatic,India,Sedan
+Maruti Suzuki,Swift,CNG,6.645,Manual/Automatic,India,Hatchback
+Volvo,C40 Recharge ER,Electric,119.68,Automatic,Sweden,Coupe SUV
+Lotus,Phantom-X73,Electric,188.87,Automatic,United Kingdom,Sedan
+Opel,L-X5,Electric,251.515,Automatic,Germany,Sedan
+Kia,Carens,CNG,11.525,Manual,South Korea,SUV
+Peugeot,e-X17,Electric,115.94,Automatic,France,SUV
+Jeep,Phantom-X41,Electric,114.07,Automatic,Germany,Sedan
+Maruti Suzuki,Ertiga,CNG,10.165,Manual/Automatic,India,MPV / MUV
+Tesla,Y,Electric,110.33,Automatic,United States,Crossover
+Genesis,GV60-X1,Electric,36.92,Automatic,South Korea,Coupe
+Audi,Q2,Petrol,39.0,Automatic,Germany,SUV
+Tata,Altroz Signature,Petrol,7.42,Automatic,India,Hatchback
+Mercedes-Benz,AMG S 63,Petrol,353.5,Automatic,Germany,Coupe
+Renault,R91,Electric,114.07,Automatic,France,Sedan
+Mercedes-Benz,B-Class,Diesel,34.0,Automatic,Germany,Hatchback
+Audi,Q6 e-tron-X1,Electric,156.145,Automatic,Germany,SUV
+Mahindra,Thar Trend,Diesel,14.87,Manual,India,SUV
+Hongqi,E-HS9-X2,Electric,201.96,Automatic,China,Wagon
+Lancia,HF,Electric,125.29,Automatic,Italy,Hatchback
+GWM ORA,Cresta-X4,Electric,14.66,Automatic,China,Wagon
+Maruti Suzuki,Dzire Signature,Petrol,8.68,Automatic,India,Sedan
+Toyota,Drift-X16,Electric,200.09,Automatic,Japan,Crossover
+Mercedes-Benz,Maybach GLS,Petrol,344.0,Automatic,Germany,SUV
+Nissan,Sunny,Diesel,9.3,Manual,Japan,Sedan
+Mercedes-Benz,AMG GT Coupe,Petrol,316.5,Automatic,Germany,Coupe
+Chevrolet,Cruze,Diesel,16.0,Manual/Automatic,USA,Sedan
+GWM ORA,Phantom-X45,Electric,85.51,Automatic,China,Sedan
+NIO,ET5 Touring Range,Electric,136.51,Automatic,China,SUV
+BYD,Spectra-X28,Electric,105.655,Automatic,China,Crossover
+Polestar,3 Rear Motor,Electric,171.105,Automatic,Sweden,Hatchback
+Mahindra,Bolero,Diesel,10.5,Manual,India,SUV
+Maxus,Phantom-X37,Electric,22.69,Automatic,China,Sedan
+Renault,Kiger,Petrol,8.05,Manual/Automatic,France,SUV
+Kia,e-Soul-X1,Electric,156.145,Automatic,South Korea,Hatchback
+firefly,firefly firefly,Electric,116.875,Automatic,Germany,Wagon
+Opel,Phantom-X31,Electric,250.58,Automatic,Germany,Sedan
+Maruti Suzuki,Dzire ZXi+,Petrol,9.6,Manual,India,Sedan
+Maruti Suzuki,Dzire,CNG,7.755,Manual/Automatic,India,Sedan
+Jaguar,EV400,Electric,219.725,Automatic,United Kingdom,Sedan
+Honda,City AX5,Petrol,17.07,Manual,Japan,Sedan
+Kia,Carens,Diesel,11.88,Manual,South Korea,SUV
+Skoda,Kodiaq,Petrol,42.975,Automatic,Czech Republic,SUV
+Peugeot,iOn,Electric,85.93,Automatic,France,Coupe
+Maruti Suzuki,Baleno Base,Petrol,8.44,Manual,India,Hatchback
+Jeep,Grand Cherokee,Petrol,63.0,Automatic,USA,SUV
+Fiat,500e-X6,Electric,231.88,Automatic,Italy,Sedan
+Maruti Suzuki,S-Presso,CNG,4.155,Manual/Automatic,India,Sedan
+SsangYong,Alturas G4,Diesel,30.0,Automatic,South Korea,SUV
+Mahindra,TUV300,Diesel,10.5,Manual,India,SUV
+Maruti Suzuki,Invicto,Petrol,26.79,Automatic,India,Sedan
+Porsche,4S,Electric,254.32,Automatic,Germany,Coupe
+Kia,Carens,Petrol,12.88,Manual,South Korea,SUV
+Mercedes-Benz,G-Class,Diesel,342.5,Automatic,Germany,Sedan
+CUPRA,Phantom-X65,Electric,74.9,Automatic,Spain,Sedan
+Hyundai,Venue SX,Petrol,10.28,Manual,South Korea,SUV
+Mahindra,Verito,Diesel,8.0,Manual,India,Sedan
+BMW,M5,Petrol,201.0,Automatic,Germany,Sedan
+Lotus,R-X3,Electric,83.22,Automatic,United Kingdom,Crossover
+Peugeot,e-X3,Electric,59.27,Automatic,France,Crossover
+BYD,Phantom-X70,Electric,49.44,Automatic,China,Sedan
+Opel,Phantom-X63,Electric,114.07,Automatic,Germany,Sedan
+Maruti Suzuki,Baleno EX,Petrol,9.05,Manual/Automatic,India,Hatchback
+Kia,Seltos,Petrol,15.845,Manual/Automatic,South Korea,SUV
+Mitsubishi,Outlander,Petrol,26.0,Automatic,Japan,SUV
+Abarth,600e Turismo,Electric,64.53,Automatic,Italy,SUV
+Opel,Falcon-X10,Electric,201.025,Automatic,Germany,SUV
+Maruti Suzuki,Swift E,Petrol,8.05,Manual/Automatic,India,Hatchback
+Kia,Sonet SX(O),Petrol,10.66,Manual,South Korea,SUV
+Kia,EV6 2WD,Electric,122.485,Automatic,South Korea,Crossover
+MG,Hector Plus,Diesel,19.4,Manual/Automatic,China,SUV
+Ford,Phantom-X33,Electric,115.94,Automatic,United States,Sedan
+Opel,Phantom-X46,Electric,131.835,Automatic,Germany,Sedan
+Zeekr,7X-X2,Electric,42.91,Automatic,China,Crossover
+NIO,ET5 Touring,Electric,143.99,Automatic,China,Sedan
+Daewoo,Matiz,Petrol,4.5,Manual,South Korea,Hatchback
+Zeekr,X Range,Electric,113.135,Automatic,China,Crossover
+Toyota,Fortuner LXi,Diesel,41.05,Manual,Japan,SUV
+Toyota,Innova Crysta AX7,Diesel,22.58,Manual,Japan,MPV / MUV
+Mercedes-Benz,CLE Cabriolet,Petrol,111.0,Automatic,Germany,Convertible
+Chevrolet,Sail,Petrol,7.8,Manual,USA,Sedan
+Maruti Suzuki,Alto K10,CNG,4.36,Manual/Automatic,India,Sedan
+Zeekr,Phantom-X99,Electric,125.29,Automatic,China,Sedan
+Jaguar,EV320,Electric,31.72,Automatic,United Kingdom,Hatchback
+Toyota,Vellfire,Petrol,125.0,Automatic,Japan,SUV
+BMW,X5,Petrol,98.5,Automatic,Germany,SUV
+Mercedes-Benz,Maybach,Electric,412.335,Automatic,Germany,Sedan
+Mercedes-Benz,Phantom-X34,Electric,64.17,Automatic,Germany,Sedan
+Tata,Tiago,Petrol,6.195,Manual/Automatic,India,SUV
+Mini,Vortex-X22,Electric,193.545,Automatic,United Kingdom,Wagon
+BMW,iX xDrive45,Electric,170.17,Automatic,Germany,SUV
+Renault,EV60-X1,Electric,109.395,Automatic,France,Crossover
+Mazda,6e Range,Electric,100.045,Automatic,Japan,Sedan
+Maruti Suzuki,Baleno,CNG,7.265,Manual/Automatic,India,Hatchback
+Tata,Harrier EX,Diesel,21.44,Manual/Automatic,India,SUV
+BMW,iX2 xDrive30,Electric,148.665,Automatic,Germany,SUV
+Nissan,Range-X1,Electric,99.11,Automatic,Japan,Coupe
+Polestar,Phantom-X90,Electric,239.36,Automatic,Sweden,Sedan
+Mercedes-Benz,GLA,Diesel,51.2,Automatic,Germany,SUV
+Hyundai,Creta N Line,Petrol,18.96,Manual/Automatic,South Korea,SUV
+Audi,Q8 Sportback e-tron-X1,Electric,165.495,Automatic,Germany,SUV
+Polestar,5 Dual Motor,Electric,184.195,Automatic,Sweden,Coupe
+Toyota,Taisor,CNG,8.635,Manual/Automatic,Japan,SUV
+Kia,PV5 Passenger,Electric,128.095,Automatic,South Korea,Sedan
+Peugeot,e-308 SW-X1,Electric,105.655,Automatic,France,Coupe
+BMW,i3s-X2,Electric,13.82,Automatic,Germany,Hatchback
+Mercedes-Benz,Phantom-X95,Electric,164.56,Automatic,Germany,Sedan
+Tesla,S Range,Electric,144.925,Automatic,United States,Wagon
+Mahindra,XUV700 VXi,Diesel,21.66,Manual/Automatic,India,SUV
+Opel,Quantum-X6,Electric,61.98,Automatic,Germany,Crossover
+Volvo,ES90-X1,Electric,37.35,Automatic,Sweden,SUV
+Mercedes-Benz,GLE,Diesel,98.3,Automatic,Germany,SUV
+Tata,Safari,Diesel,20.31,Manual/Automatic,India,SUV
+Kia,EV3,Electric,106.59,Automatic,South Korea,Hatchback
+Mahindra,XUV700 Titanium,Diesel,19.54,Automatic,India,SUV
+Mercedes-Benz,GLC,Petrol,74.6,Automatic,Germany,SUV
+Hyundai,Aura,CNG,6.89,Manual/Automatic,South Korea,SUV
+VinFast,8 Eco,Electric,61.06,Automatic,Vietnam,Wagon
+Kia,Seltos Titanium,Petrol,14.91,Manual,South Korea,SUV
+BMW,iX3,Electric,105.655,Automatic,Germany,SUV
+Audi,S5 Sportback,Petrol,77.035,Automatic,Germany,Sedan
+Toyota,Fortuner ZXi+,Diesel,42.6,Manual,Japan,SUV
+Citro,Citro,Electric,87.89,Automatic,France,SUV
+Toyota,Camry,Petrol,47.48,Automatic,Japan,SUV
+Porsche,S-X1,Electric,429.165,Automatic,Germany,Wagon
+Maruti Suzuki,Wagon R tour,CNG,5.235,Manual,India,Hatchback
+Audi,Q5,Petrol,67.3,Automatic,Germany,SUV
+Leapmotor,C12,Electric,13.12,Automatic,China,SUV
+Honda,Civic 0.2,Petrol,18.0,Manual/Automatic,Japan,Sedan
+Tata,Altroz AX5,Petrol,10.78,Automatic,India,Hatchback
+Toyota,bZ4X,Electric,131.835,Automatic,Japan,Coupe
+Maruti Suzuki,Swift ZXi,Petrol,6.48,Automatic,India,Hatchback
+BMW,X7,Diesel,127.0,Automatic,Germany,SUV
+MG,Hector,Diesel,17.38,Manual/Automatic,China,SUV
+Toyota,Phantom-X52,Electric,121.55,Automatic,Japan,Sedan
+Renault,Zenith-X3,Electric,180.455,Automatic,France,Crossover
+Hyundai,Creta SX(O),Petrol,18.2,Automatic,South Korea,SUV
+Hyundai,Tucson,Petrol,32.48,Automatic,South Korea,SUV
+Volvo,ES90-X3,Electric,168.3,Automatic,Sweden,Sedan
+Hyundai,Grand i10 Nios,CNG,6.615,Manual/Automatic,South Korea,SUV
+Opel,Ignis-X9,Electric,256.19,Automatic,Germany,SUV
+BMW,i7 M70,Electric,356.235,Automatic,Germany,Sedan
+Audi,Q8,Petrol,110.0,Automatic,Germany,SUV
+Hongqi,E-HS9-X1,Electric,204.765,Automatic,China,SUV
+Chevrolet,Beat,Petrol,5.0,Manual,USA,Hatchback
+Maruti Suzuki,Baleno Trend,Petrol,8.87,Manual/Automatic,India,Hatchback
+Mercedes-Benz,C-Class,Petrol,61.535,Automatic,Germany,Sedan
+Zeekr,7X Range,Electric,108.46,Automatic,China,SUV
+Mahindra,XUV700 E,Diesel,20.83,Manual/Automatic,India,SUV
+BMW,3 GT,Diesel,50.0,Automatic,Germany,Sedan
+Polestar,Phantom-X96,Electric,215.05,Automatic,Sweden,Sedan
+Renault,EV87,Electric,75.65,Automatic,France,Sedan
+Toyota,Hyryder,CNG,14.685,Manual/Automatic,Japan,SUV
+TOGG,T10F Range-X1,Electric,90.695,Automatic,Turkey,Coupe
+Mercedes-Benz,Phantom-X74,Electric,68.53,Automatic,Germany,Sedan
+Opel,Vector-X29,Electric,163.625,Automatic,Germany,Crossover
+Toyota,Etios Liva,Petrol,7.39,Manual/Automatic,Japan,SUV
+Tata,Tiago,CNG,6.07,Manual/Automatic,India,SUV
+Tata,Harrier SX,Diesel,20.34,Manual/Automatic,India,SUV
+Zeekr,X Privilege,Electric,129.965,Automatic,China,Sedan
+Polestar,2 Range-X1,Electric,129.965,Automatic,Sweden,Coupe
+Ford,ER,Electric,30.87,Automatic,United States,Crossover
+Peugeot,e-X20,Electric,64.72,Automatic,France,Hatchback
+XPENG,G9,Electric,145.86,Automatic,China,Hatchback
+MG,MGS5 EV,Electric,37.7,Automatic,United Kingdom,SUV
+BMW,M8 Coupe Competition,Petrol,238.0,Automatic,Germany,Sedan
+Mercedes-Benz,Phantom-X93,Electric,44.27,Automatic,Germany,Sedan
+Toyota,Innova Hycross,Petrol,24.495,Automatic,Japan,SUV
+Audi,e-tron,Electric,198.22,Automatic,Germany,SUV
+Changan Deepal,S05,Electric,55.48,Automatic,China,Hatchback
+Tata,Nexon,CNG,10.135,Manual/Automatic,India,SUV
+Mercedes-Benz,GLS,Petrol,142.0,Automatic,Germany,SUV
+Nissan,X-Trail,Petrol,48.2,Automatic,Japan,SUV
+Zeekr,001 Range,Electric,110.33,Automatic,China,SUV
+Porsche,Phantom-X80,Electric,206.635,Automatic,Germany,Sedan
+BMW,3 Series,Petrol,73.4,Automatic,Germany,Sedan
+NIO,EL8,Electric,241.23,Automatic,China,Sedan
+NIO,ET5,Electric,139.315,Automatic,China,Coupe
+Kia,Sonet Base,Petrol,13.26,Manual,South Korea,SUV
+Mercedes-Benz,Phantom-X81,Electric,283.305,Automatic,Germany,Sedan
+Maruti Suzuki,Dzire EX,Petrol,9.2,Manual/Automatic,India,Sedan
+Toyota,Rumion,Petrol,12.03,Manual/Automatic,Japan,SUV
+Hyundai,Creta E,Petrol,16.23,Manual,South Korea,SUV
+Geely,EX5,Electric,18.0,Automatic,China,Sedan
+Bentley,Continental GT,Petrol,390.0,Automatic,UK,Coupe
+Hyundai,Creta,Petrol,16.965,Manual/Automatic,South Korea,SUV
+BYD,U-X2,Electric,60.91,Automatic,China,Wagon
+Renault,Lodgy,Diesel,10.5,Manual,France,MPV / MUV
+MG,MG4 Electric-X1,Electric,101.915,Automatic,United Kingdom,Hatchback
+Mercedes-Benz,AMG E 53 Cabriolet,Petrol,130.0,Automatic,Germany,Coupe
+Volkswagen,e-X4,Electric,87.22,Automatic,Germany,SUV
+SsangYong,Rexton,Diesel,24.0,Automatic,South Korea,SUV
+Toyota,Yaris,Petrol,13.575,Manual/Automatic,Japan,SUV
+Kia,Carnival,Diesel,59.42,Automatic,South Korea,SUV
+Mahindra,KUV100 NXT,Petrol,7.5,Manual,India,Hatchback
+BMW,i7 eDrive50,Electric,212.245,Automatic,Germany,Sedan
+Mini,Titan-X14,Electric,158.95,Automatic,United Kingdom,Coupe
+Mercedes-Benz,eVito-X2,Electric,50.08,Automatic,Germany,Wagon
+Audi,e-tron S,Electric,274.89,Automatic,Germany,SUV
+Tata,Tigor,CNG,6.885,Manual/Automatic,India,SUV
+Volvo,EX40,Electric,62.46,Automatic,Sweden,Coupe
+Tata,Nexon,Diesel,10.525,Manual/Automatic,India,SUV
+VinFast,Phantom-X53,Electric,134.64,Automatic,Vietnam,Sedan
+Maruti Suzuki,Celerio,CNG,5.305,Manual/Automatic,India,Hatchback
+CUPRA,Phantom-X69,Electric,134.64,Automatic,Spain,Sedan
+Mercedes-Benz,G,Electric,434.775,Automatic,Germany,SUV
+Mitsubishi,Phantom-X87,Electric,88.825,Automatic,Japan,Sedan
+Renault,4 E-Tech-X2,Electric,93.5,Automatic,France,Crossover
+Audi,Q4 Sportback e-tron-X1,Electric,162.69,Automatic,Germany,SUV
+Tesla,S-X4,Electric,84.67,Automatic,United States,Hatchback
+Genesis,G80 Electrified,Electric,169.235,Automatic,South Korea,SUV
+Volvo,XC40 Recharge-X2,Electric,38.39,Automatic,Sweden,SUV
+Maruti Suzuki,Dzire,Petrol,7.785,Manual/Automatic,India,Sedan
+Alpine,A290 Electric-X2,Electric,126.225,Automatic,France,SUV
+Maruti Suzuki,Wagon R,CNG,5.4,Manual/Automatic,India,Hatchback
+KGM,EVX,Electric,19.61,Automatic,China,Sedan
+Mercedes-Benz,Phantom-X49,Electric,162.69,Automatic,Germany,Sedan
+Toyota,Land Cruiser 300,Diesel,220.5,Automatic,Japan,SUV
+Toyota,Innova Crysta ZXi+,Diesel,22.53,Manual/Automatic,Japan,MPV / MUV
+Maruti Suzuki,XL6,CNG,12.115,Manual/Automatic,India,MPV / MUV
+Cadillac,500 E4,Electric,166.43,Automatic,United States,Coupe
+Volkswagen,e-Golf,Electric,160.82,Automatic,Germany,Sedan
+Opel,Strider-X17,Electric,199.155,Automatic,Germany,Hatchback
+Volvo,EX90-X1,Electric,168.3,Automatic,Sweden,SUV
+Ford,Range-X5,Electric,131.835,Automatic,United States,SUV
+Kia,Sonet,Diesel,10.65,Manual/Automatic,South Korea,SUV
+Mercedes-Benz,Phantom-X62,Electric,30.86,Automatic,Germany,Sedan
+BYD,Phantom-X72,Electric,136.51,Automatic,China,Sedan
+Toyota,Hyryder,Petrol,15.355,Manual/Automatic,Japan,SUV
+Rolls-Royce,Ghost,Petrol,795.0,Automatic,UK,Sedan
+Zeekr,7X-X1,Electric,56.07,Automatic,China,Hatchback
+Porsche,Turismo-X1,Electric,212.245,Automatic,Germany,Hatchback
+Maruti Suzuki,Wagon R tour,Petrol,5.44,Manual,India,Hatchback
+Volkswagen,e-X10,Electric,43.44,Automatic,Germany,Sedan
+Toyota,Verso-X2,Electric,170.17,Automatic,Japan,Wagon
+BMW,i5 eDrive40 Touring,Electric,56.44,Automatic,Germany,SUV
+Kia,EV6 Range,Electric,119.68,Automatic,South Korea,Crossover
+Skoda,Octavia RS,Petrol,49.99,Automatic,Czech Republic,SUV
+MG,Hector,Petrol,17.645,Manual/Automatic,China,SUV
+Nissan,e-NV200 Evalia,Electric,24.03,Automatic,Japan,Wagon
+Porsche,GT Weissach,Electric,20.22,Automatic,Germany,Crossover
+Kia,Sonet,Petrol,11.33,Manual/Automatic,South Korea,SUV
+Mercedes-Benz,A-Class Limousine,Petrol,45.335,Automatic,Germany,Sedan
+BMW,X1,Diesel,51.4,Automatic,Germany,SUV
+Opel,Lumina-X24,Electric,41.91,Automatic,Germany,Sedan
+Tesla,X Plaid,Electric,247.775,Automatic,United States,Sedan
+Honda,Elevate,Petrol,13.0,Manual/Automatic,Japan,SUV
+Lexus,450e,Electric,47.17,Automatic,Japan,Hatchback
+Audi,Q6 Sportback e-tron-X2,Electric,149.6,Automatic,Germany,SUV
+NIO,EL8 Range,Electric,216.92,Automatic,China,Hatchback
+Hyundai,9 Range-X1,Electric,33.81,Automatic,South Korea,Coupe
+BMW,2 Series Gran Coupe,Petrol,46.25,Automatic,Germany,Sedan
+Lexus,350e,Electric,30.07,Automatic,Japan,Coupe
+BYD,U-X1,Electric,110.33,Automatic,China,Wagon
+Genesis,GV70 Electrified-X2,Electric,177.65,Automatic,South Korea,Coupe
+Mercedes-Benz,GLA,Petrol,51.45,Automatic,Germany,SUV
+Honda,e-X16,Electric,121.55,Automatic,Japan,Crossover
+Kia,Carens Clavis,Diesel,14.75,Manual/Automatic,South Korea,SUV
+Volkswagen,Vento,Diesel,11.0,Manual/Automatic,Germany,Sedan
+Tata,Harrier E,Diesel,18.97,Automatic,India,SUV
+BYD,Phantom-X56,Electric,114.07,Automatic,China,Sedan
+Hyundai,5 Project,Electric,148.665,Automatic,South Korea,Wagon
+BMW,iX1 eDrive20,Electric,120.615,Automatic,Germany,SUV
+Fiat,Avventura,Diesel,8.2,Manual,Italy,Crossover
+Tata,Altroz ZXi+,Petrol,8.47,Manual,India,Hatchback
+Fiat,Apex-X27,Electric,283.305,Automatic,Italy,SUV
+BMW,X3,Diesel,72.15,Automatic,Germany,SUV
+XPENG,G7,Electric,37.87,Automatic,China,Hatchback
+Polestar,3 Range Dual motor,Electric,157.08,Automatic,Sweden,Hatchback
+MG,MG4 Electric-X2,Electric,95.37,Automatic,United Kingdom,Hatchback
+Jeep,Meridian,Diesel,29.77,Manual/Automatic,USA,SUV
+BMW,7 Series,Diesel,180.5,Automatic,Germany,Sedan
+Audi,Q6 Sportback e-tron-X1,Electric,156.145,Automatic,Germany,SUV
+Mercedes-Benz,Phantom-X83,Electric,274.89,Automatic,Germany,Sedan
+Maserati,Phantom-X55,Electric,292.655,Automatic,Italy,Sedan
+DS Automobiles,3 Crossback E-Tense,Electric,140.25,Automatic,France,Sedan
+Leapmotor,C10,Electric,44.68,Automatic,China,Coupe
+Mahindra,Thar EX,Diesel,15.96,Manual,India,SUV
+Toyota,Glanza,CNG,7.65,Manual/Automatic,Japan,SUV
+Hyundai,Venue N Line,Petrol,11.96,Manual/Automatic,South Korea,SUV
+Nissan,e-4ORCE,Electric,127.16,Automatic,Japan,Wagon
+Mercedes-Benz,GLS,Diesel,137.0,Automatic,Germany,SUV
+XPENG,P7,Electric,121.55,Automatic,China,Coupe
+Maruti Suzuki,Victoris,CNG,14.075,Manual/Automatic,India,Sedan
+Maruti Suzuki,Baleno AX5,Petrol,7.13,Manual/Automatic,India,Hatchback
+Tata,Nexon Base,Petrol,9.78,Automatic,India,SUV
+Mini,Lyra-X23,Electric,345.95,Automatic,United Kingdom,SUV
+Hyundai,Grand i10 Nios,Petrol,6.695,Manual/Automatic,South Korea,SUV
+Toyota,Rumion,CNG,11.78,Manual/Automatic,Japan,SUV
+Mahindra,Thar,Diesel,15.0,Manual/Automatic,India,SUV
+Mercedes-Benz,Phantom-X36,Electric,188.87,Automatic,Germany,Sedan
+Honda,BR-V,Petrol,12.0,Manual/Automatic,Japan,SUV
+Peugeot,e-X9,Electric,25.55,Automatic,France,Wagon
+BMW,iX xDrive50,Electric,199.155,Automatic,Germany,SUV
+Hyundai,Creta,Diesel,15.465,Manual/Automatic,South Korea,SUV
+MG,MG5 EV,Electric,96.305,Automatic,United Kingdom,Coupe
+Hyundai,5 N,Electric,178.585,Automatic,South Korea,Hatchback
+TOGG,T10X Range,Electric,85.085,Automatic,Turkey,SUV
+Ford,EcoSport,Petrol,10.0,Manual/Automatic,USA,SUV
+Porsche,Electric-X2,Electric,154.275,Automatic,Germany,Wagon
+Polestar,2 Range Dual Motor,Electric,134.64,Automatic,Sweden,Crossover
+Audi,Q8 Sportback e-tron-X2,Electric,53.84,Automatic,Germany,SUV
+Mercedes-Benz,Phantom-X86,Electric,127.16,Automatic,Germany,Sedan
+BYD,Active,Electric,88.36,Automatic,China,Hatchback
+Mercedes-Benz,Phantom-X92,Electric,24.75,Automatic,Germany,Sedan
+MG,MG4 Electric XPOWER,Electric,128.095,Automatic,United Kingdom,Hatchback
+MG,ZS Petrol,Petrol,13.0,Automatic,China,SUV
+GWM ORA,03 GT,Electric,29.09,Automatic,China,Sedan
+Peugeot,e-X19,Electric,120.615,Automatic,France,Wagon
+MG,Astor,Petrol,12.945,Manual/Automatic,China,SUV
+Aston Martin,DB11,Petrol,380.0,Automatic,UK,Coupe
+Audi,Q6 Sportback e-tron-X3,Electric,134.64,Automatic,Germany,SUV
+Volkswagen,e-X5,Electric,69.52,Automatic,Germany,Coupe
+Lotus,Evora,Petrol,205.0,Manual,UK,Coupe
+Volvo,EC40 ER,Electric,128.095,Automatic,Sweden,Sedan
+Kia,Sonet E,Petrol,12.2,Automatic,South Korea,SUV
+Fiat,500e-X4,Electric,64.14,Automatic,Italy,Crossover
+Mercedes-Benz,Phantom-X76,Electric,80.93,Automatic,Germany,Sedan
+SEAT,Fusion-X8,Electric,108.46,Automatic,Spain,SUV
+Ford,Figo,Diesel,7.0,Manual,USA,Hatchback
+Maruti Suzuki,Dzire Base,Petrol,7.55,Manual,India,Sedan
+Toyota,L-X3,Electric,31.92,Automatic,Japan,Sedan
+Smart,Drive-X1,Electric,201.025,Automatic,Germany,Crossover
+Land Rover,Defender,Diesel,150.0,Automatic,UK,SUV
+Polestar,3 Range-X2,Electric,181.39,Automatic,Sweden,Coupe
+Tesla,Y Range-X1,Electric,114.07,Automatic,United States,Hatchback
+Peugeot,e-5008 Dual Motor,Electric,17.53,Automatic,France,SUV
+Smart,Electric Drive,Electric,64.39,Automatic,Germany,SUV
+Mini,ALL4,Electric,130.9,Automatic,United Kingdom,Coupe
+CUPRA,Phantom-X94,Electric,27.17,Automatic,Spain,Sedan
+Porsche,S Turismo,Electric,380.545,Automatic,Germany,SUV
+Audi,A6 Avant e-tron-X2,Electric,136.51,Automatic,Germany,SUV
+BYD,7-X2,Electric,86.68,Automatic,China,Crossover
+Nissan,Phantom-X68,Electric,48.6,Automatic,Japan,Sedan
+Mercedes-Benz,Phantom-X59,Electric,84.77,Automatic,Germany,Sedan
+Volkswagen,ID,Electric,40.18,Automatic,Germany,Coupe
+Maruti Suzuki,Eeco,Petrol,5.785,Manual,India,Sedan
+Tata,Bolt,Diesel,6.5,Manual,India,Hatchback
+BMW,X5,Diesel,96.5,Automatic,Germany,SUV
+Nissan,Range-X4,Electric,44.85,Automatic,Japan,Coupe
+Mercedes-Benz,AMG C43,Petrol,94.05,Automatic,Germany,Coupe
+NIO,EL6 Range,Electric,76.23,Automatic,China,SUV
+Tata,Altroz,CNG,8.405,Manual/Automatic,India,SUV
+Audi,Q4 Sportback e-tron-X4,Electric,79.38,Automatic,Germany,SUV
+Volvo,EC40,Electric,148.665,Automatic,Sweden,SUV
+Hyundai,6 Range 2WD,Electric,67.17,Automatic,South Korea,SUV
+Maruti Suzuki,Alto K10,Petrol,4.575,Manual/Automatic,India,Sedan
+Mercedes-Benz,Phantom-X61,Electric,55.28,Automatic,Germany,Sedan
+Tata,Safari Storme,Diesel,13.0,Manual,India,SUV
+Kia,EV6 Range 2WD,Electric,117.81,Automatic,South Korea,Crossover
+GWM ORA,Phantom-X39,Electric,112.2,Automatic,China,Sedan
+Hyundai,Phantom-X57,Electric,102.85,Automatic,South Korea,Sedan
+BMW,i4 eDrive40,Electric,114.07,Automatic,Germany,Sedan
+Honda,Amaze,Petrol,9.5,Manual/Automatic,Japan,Sedan
+MG,Aquila-X21,Electric,124.355,Automatic,United Kingdom,Hatchback
+Smart,Drive-X2,Electric,69.19,Automatic,Germany,Crossover
+Porsche,4S Cross Turismo,Electric,251.515,Automatic,Germany,Coupe
+Peugeot,2008,Petrol,14.5,Manual/Automatic,France,SUV
+BMW,XM,Petrol,255.0,Automatic,Germany,Sedan
+Kia,EV4 Fastback,Electric,75.63,Automatic,South Korea,Sedan
+Changan Deepal,S07 Standard,Electric,16.66,Automatic,China,SUV
+Hyundai,Phantom-X54,Electric,102.85,Automatic,South Korea,Sedan
+Nissan,Magnite,Petrol,8.19,Manual/Automatic,Japan,SUV
+Tesla,S-X2,Electric,187.935,Automatic,United States,Hatchback
+Mercedes-Benz,Mirage-X25,Electric,79.37,Automatic,Germany,Coupe
+KGM,4WD,Electric,126.225,Automatic,China,Coupe
+Mercedes-Benz,AMG GLA 35,Petrol,58.5,Automatic,Germany,SUV
+Toyota,Corolla Altis,Petrol,14.01,Manual/Automatic,Japan,SUV
+Mahindra,Scorpio N,Diesel,20.0,Manual/Automatic,India,SUV
+Toyota,Fortuner Legender,Diesel,44.145,Manual/Automatic,Japan,SUV
+Hyundai,Venue,Petrol,10.07,Manual/Automatic,South Korea,SUV
+Porsche,4S Electric,Electric,183.26,Automatic,Germany,SUV
+Daewoo,Cielo,Petrol,6.0,Manual,South Korea,Sedan
+Opel,Phantom-X47,Electric,17.34,Automatic,Germany,Sedan
+Opel,Pulsar-X15,Electric,110.33,Automatic,Germany,Sedan
+Hyundai,Venue Signature,Petrol,11.77,Manual/Automatic,South Korea,SUV
+Dacia,Velocity-X30,Electric,112.2,Automatic,Romania,Coupe
+Fiat,Horizon-X20,Electric,86.54,Automatic,Italy,SUV
+Hyundai,Phantom-X64,Electric,68.4,Automatic,South Korea,Sedan
+Volvo,EX30 Cross Country,Electric,155.21,Automatic,Sweden,SUV
+Tata,Harrier,Diesel,19.625,Manual/Automatic,India,SUV
+Audi,A4,Petrol,50.68,Automatic,Germany,Sedan
+Fisker,Phantom-X42,Electric,62.12,Automatic,United States,Sedan
+Mercedes-Benz,C-Class,Diesel,61.475,Automatic,Germany,Sedan
+Peugeot,e-5008 Range,Electric,107.525,Automatic,France,Hatchback
+Hyundai,5 2WD,Electric,151.47,Automatic,South Korea,Crossover
+Renault,KWID,Petrol,5.1,Manual/Automatic,France,Hatchback
+Audi,RS Q8,Petrol,232.0,Automatic,Germany,SUV
+Kia,Seltos,Diesel,15.3,Manual/Automatic,South Korea,SUV
+Audi,A6,Petrol,66.815,Automatic,Germany,Sedan
+Renault,ZE50 R135,Electric,109.395,Automatic,France,Crossover
+Abarth,600e Scorpionissima,Electric,160.82,Automatic,Italy,Coupe
+Tata,Punch,CNG,7.1,Manual/Automatic,India,SUV
+Lamborghini,Urus,Petrol,418.0,Automatic,Italy,SUV
+Mercedes-Benz,AMG GLE 53,Petrol,188.0,Automatic,Germany,SUV
+Toyota,L-X1,Electric,356.235,Automatic,Japan,Crossover
+Tata,Nexon AX5,Petrol,12.61,Manual,India,SUV
+Mitsubishi,Pajero Sport,Diesel,30.0,Manual/Automatic,Japan,SUV
+MG,R-X1,Electric,138.38,Automatic,United Kingdom,Sedan
+Hyundai,Phantom-X38,Electric,85.54,Automatic,South Korea,Sedan
+Mercedes-Benz,Phantom-X98,Electric,136.51,Automatic,Germany,Sedan
+Opel,Corsa,Petrol,6.2,Manual,Germany,Hatchback
+Mahindra,XUV700,Petrol,20.5,Manual/Automatic,India,SUV
+Toyota,Innova Crysta,Diesel,21.965,Manual,Japan,SUV
+Audi,e-tron GT RS,Electric,337.535,Automatic,Germany,SUV
+Suzuki,e VITARA 2WD-X1,Electric,11.22,Automatic,Japan,Coupe
+NIO,EL6,Electric,171.105,Automatic,China,Hatchback
+Hyundai,Verna,Petrol,13.835,Manual/Automatic,South Korea,SUV
+Audi,Q4 e-tron-X4,Electric,132.77,Automatic,Germany,SUV
+Seres,Nova-X18,Electric,136.51,Automatic,China,Crossover
+BMW,X3,Petrol,72.65,Automatic,Germany,SUV
+Mercedes-Benz,Phantom-X88,Electric,173.91,Automatic,Germany,Sedan
+Lotus,Phantom-X60,Electric,305.745,Automatic,United Kingdom,Sedan
+Skoda,Slavia,Petrol,13.85,Manual/Automatic,Czech Republic,SUV
+Honda,City,Petrol,15.0,Manual/Automatic,Japan,Sedan
+Audi,Q3,Petrol,48.025,Automatic,Germany,SUV
+Audi,e-tron S Sportback,Electric,273.02,Automatic,Germany,SUV
+Volkswagen,e-X12,Electric,220.66,Automatic,Germany,Coupe
+Ford,Range-X2,Electric,131.835,Automatic,United States,Hatchback
+Kia,e-Niro,Electric,148.665,Automatic,South Korea,Crossover
+Maruti Suzuki,Ertiga Tour,Petrol,10.135,Manual,India,MPV / MUV
+Toyota,Cascade-X2,Electric,292.655,Automatic,Japan,Sedan
+NIO,EL7 Range,Electric,87.41,Automatic,China,Sedan
+Renault,5 E-Tech-X1,Electric,96.305,Automatic,France,SUV
+Tata,Zest,Petrol,7.2,Manual,India,Sedan
+BMW,3 Series Long Wheelbase,Petrol,61.325,Automatic,Germany,Sedan
+Kia,Seltos Base,Petrol,17.37,Manual,South Korea,SUV
+Porsche,Phantom-X66,Electric,343.145,Automatic,Germany,Sedan
+Volkswagen,e-X6,Electric,13.29,Automatic,Germany,Coupe
+Maruti Suzuki,Swift SX(O),Petrol,8.45,Manual,India,Hatchback
+Maruti Suzuki,FRONX,CNG,9.32,Manual/Automatic,India,SUV
+Tesla,Y Range-X2,Electric,104.72,Automatic,United States,Crossover
+BMW,iX M60,Electric,266.475,Automatic,Germany,SUV
+Peugeot,e-X18,Electric,29.06,Automatic,France,Wagon
+Audi,Q6 e-tron-X3,Electric,74.55,Automatic,Germany,SUV
+Volvo,C40 Recharge,Electric,13.84,Automatic,Sweden,Coupe SUV
+Tata,Sumo Gold,Diesel,8.5,Manual,India,SUV
+Volvo,XC40 Recharge ER,Electric,122.485,Automatic,Sweden,SUV
+Audi,Q8 e-tron-X1,Electric,16.47,Automatic,Germany,SUV
+Audi,A6 Sportback e-tron-X1,Electric,41.17,Automatic,Germany,SUV
+Maruti Suzuki,Alto Tour H1,CNG,4.375,Manual,India,MPV / MUV
+XPENG,G6,Electric,115.005,Automatic,China,Crossover
+Volvo,ES90-X2,Electric,158.95,Automatic,Sweden,Wagon
+Jeep,Phantom-X50,Electric,118.745,Automatic,Germany,Sedan
+Volvo,XC60,Petrol,67.11,Automatic,Sweden,SUV
+Opel,Corsa-e,Electric,118.745,Automatic,Germany,Hatchback
+XPENG,P7 Wing Edition,Electric,144.925,Automatic,China,Coupe
+Volkswagen,Polo,Petrol,8.5,Manual/Automatic,Germany,Hatchback
+Mercedes-Benz,E-Class,Petrol,85.11,Automatic,Germany,Sedan
+Kia,Seltos SX,Petrol,15.7,Automatic,South Korea,SUV
+Lexus,300e,Electric,146.795,Automatic,Japan,Hatchback
+Mercedes-Benz,A-Class Limousine,Diesel,45.2,Automatic,Germany,Sedan
+Maruti Suzuki,Baleno ZXi,Petrol,7.27,Automatic,India,Hatchback
+Maruti Suzuki,Dzire Tour S,CNG,6.46,Manual,India,Sedan
+Toyota,L-X4,Electric,245.905,Automatic,Japan,Coupe
+Peugeot,e-X8,Electric,71.07,Automatic,France,Wagon
+Hyundai,Phantom-X48,Electric,119.68,Automatic,South Korea,Sedan
+Smart,fortwo,Electric,225.335,Automatic,Germany,Crossover
+Toyota,Fortuner Titanium,Diesel,43.43,Automatic,Japan,SUV
+Porsche,Turismo-X3,Electric,210.375,Automatic,Germany,Wagon
+Mercedes-Benz,S-Class,Diesel,183.0,Automatic,Germany,Sedan
+Fisker,Phantom-X78,Electric,123.42,Automatic,United States,Sedan
+Tata,Curvv,Petrol,14.425,Manual/Automatic,India,SUV
+Mercedes-Benz,Eclipse-X13,Electric,264.605,Automatic,Germany,Crossover
+Maruti Suzuki,Ciaz,Petrol,10.49,Manual/Automatic,India,Sedan
+Peugeot,e-3008 Dual Motor,Electric,155.21,Automatic,France,Hatchback
+Honda,City EX,Petrol,14.16,Automatic,Japan,Sedan
+Fiat,Linea,Diesel,8.5,Manual,Italy,Sedan
+Renault,ZE50 R110,Electric,103.785,Automatic,France,Crossover
+Hyundai,i20 N-Line,Petrol,10.37,Manual/Automatic,South Korea,SUV
+Ford,Range-X8,Electric,118.745,Automatic,United States,Crossover
+Mercedes-Benz,GLE,Petrol,99.5,Automatic,Germany,SUV
+Peugeot,e-3008 Range,Electric,59.46,Automatic,France,Wagon
+Jeep,Wrangler,Petrol,65.945,Automatic,USA,SUV
+Hyundai,Aura,Petrol,7.2,Manual/Automatic,South Korea,SUV
+Peugeot,307,Petrol,10.0,Manual,France,Sedan
+Kia,EV9,Electric,51.34,Automatic,South Korea,SUV
+Tata,Nexon,Petrol,10.685,Manual/Automatic,India,SUV
